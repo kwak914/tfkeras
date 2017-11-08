@@ -4,9 +4,11 @@ sudo pip install keras
 
 git을 이용하는법은 다음과 같다.
 
+```
 git clone https://github.com/fchollet/keras.git
 cd keras
 sudo python setup.py install
+```
 
 Keras는 RNN, CNN을 지원하는 Tensorflow 써드파티 라이브러리다.
 
